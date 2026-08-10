@@ -1,0 +1,1 @@
+enum EndPregnancyOption { history, remove }
